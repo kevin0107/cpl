@@ -1,2 +1,2 @@
 # cpl
-computer programming language
+computer programming language notes
